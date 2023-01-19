@@ -1,7 +1,7 @@
-# Arkanoid
+# Arkanoid Clone
 My example of an arkanoid game with source code
 
-Packages assets:
+# Packages assets:
 1. https://www.kenney.nl/assets/puzzle-pack
 2. https://www.kenney.nl/assets/kenney-fonts
 3. https://www.kenney.nl/assets/ui-pack
