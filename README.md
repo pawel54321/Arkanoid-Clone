@@ -2,13 +2,13 @@
 Arkanoid Clone - Unity (C#) my example of an arkanoid game with source code
 
 # Controls:
-* First player:
-Key "A" - Move to left
-Key "D" - Move to right
+* First player:<br />
+Key "A" - Move to left<br />
+Key "D" - Move to right<br />
 Key "Space" - Action
-* Second player:
-Move the mouse left to move left
-Move the mouse right to move right
+* Second player:<br />
+Move the mouse left to move left<br />
+Move the mouse right to move right<br />
 Key "Right Mouse Button" - Action
 
 # Implementations of function:
