@@ -1,5 +1,5 @@
 # Arkanoid-Clone
-Arkanoid Clone - Unity (C#) my example of an arkanoid game with source code
+Arkanoid Clone - Unity (C#) my example of Arkanoid game with source code
 
 # Controls:
 * First player:<br />
