@@ -12,7 +12,6 @@ Move the mouse right to move right<br />
 Key "Right Mouse Button" - Action
 
 # Implementations of function:
-
 * Multiplayer
 * Different blocks
 * Different bonuses
@@ -25,7 +24,6 @@ Key "Right Mouse Button" - Action
 * Polishing (sounds, particles, animations)
 
 # Description of blocks with powerups:
-
 * Default block (white) - one hit to destroy.
 * Red block - two hits to destroy.
 * Green block - three hits to destroy.
